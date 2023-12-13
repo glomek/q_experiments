@@ -1,5 +1,4 @@
-Interwencją jest 'uczeszczanie do prywatnej szkoły' zamieszkiwanie w bezpośrednim sąsiedzwie źródeł niskiej emisji. Skutkiem poziom stresu na skali Keslera (10 pytan od nigdy, do zawsze w ostatnich 30 dniach)
-
+Interwencją jest 'uczeszczanie do prywatnej szkoły' spodziewanym efektem lepszy wynik testu podsumowującego z matematyki
 ZMIENNA        OPIS
 koddz	        kod iden dziecka
 prywatna        1= prywatna, 0 = publiczna
