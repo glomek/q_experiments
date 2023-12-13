@@ -1,0 +1,11 @@
+Interwencją jest 'niska emisja' zamieszkiwanie w bezpośrednim sąsiedzwie źródeł niskiej emisji. Skutkiem poziom stresu na skali Keslera (10 pytan od nigdy, do zawsze w ostatnich 30 dniach)
+interwencja - (0: brak żródeł zanieczyszczenia; 1: bezposrednie sasiedzwo)
+plec (0: mezczyzna; 1: kobieta)
+mniejszosc - (0: nie; 1: mniejszosc narodowa)
+studia - (0: brak; 1: skonczone studia)
+partner - (0: brak; 1: jest)
+zamieszkanie - (0: duze miasta; 1: gminy miejskie; 2: wiejskie)
+praca - (0: jobcy; 1: pierwszy jezyk)
+alkohol (0: niskie; 1: wysokie)
+p.stresu - liczba bledow w tescie 10 to 50
+wiek - wiek uczestników

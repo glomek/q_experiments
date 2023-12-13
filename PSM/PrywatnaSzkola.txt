@@ -1,0 +1,17 @@
+Interwencją jest 'uczeszczanie do prywatnej szkoły' zamieszkiwanie w bezpośrednim sąsiedzwie źródeł niskiej emisji. Skutkiem poziom stresu na skali Keslera (10 pytan od nigdy, do zawsze w ostatnich 30 dniach)
+
+ZMIENNA        OPIS
+koddz	        kod iden dziecka
+prywatna        1= prywatna, 0 = publiczna
+zam_miasto      1= miasto, 0= nie
+zam_wies      	1= wies, 0= nie
+zam_liczba      liczba miejsc w których dziecko mieszkało
+wiek_m	        wiek matki
+wiek_o	        wiek ojca
+edu_o		1= szkoła średnia lub niżej, 0= licencjat lub wyżej
+edu_m		1= szkoła średnia lub niżej, 0= licencjat lub wyżej
+prestiz_m	prestiż zawodu matki
+prestiz_o	prestiż zawodu ojca
+dochod_g        dochod gospodarstwa domowego
+bieda        	1=wypelnia kryterium biedu, 0= niewypelnia
+wynik		wynik testu podsumowujacego z matematyki
