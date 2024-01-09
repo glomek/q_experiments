@@ -1,0 +1,821 @@
+"chain","co_owned","date","hrsopen","observation","open","sheet","status","emptot","time","treated"
+"bk","no",NA,16.5,"February 1992",6.5,46,NA,40.5,0,0
+"kfc","no",NA,13,"February 1992",10,49,NA,13.75,0,0
+"kfc","yes",NA,10,"February 1992",11,506,NA,8.5,0,0
+"wendys","yes",NA,12,"February 1992",10,56,NA,34,0,0
+"wendys","yes",NA,12,"February 1992",10,61,NA,24,0,0
+"wendys","yes",NA,12,"February 1992",10,62,NA,20.5,0,0
+"bk","no",NA,18,"February 1992",6,445,NA,70.5,0,0
+"bk","no",NA,24,"February 1992",0,451,NA,23.5,0,0
+"kfc","yes",NA,10,"February 1992",11,455,NA,11,0,0
+"kfc","yes",NA,10,"February 1992",11,458,NA,9,0,0
+"roys","yes",NA,12.5,"February 1992",9,462,NA,15.5,0,0
+"bk","no",NA,18,"February 1992",6,468,NA,58,0,0
+"bk","no",NA,18,"February 1992",6,469,NA,26.5,0,0
+"bk","no",NA,18,"February 1992",6,470,NA,28.5,0,0
+"bk","no",NA,12.5,"February 1992",9,474,NA,13.5,0,0
+"kfc","yes",NA,10,"February 1992",11,481,NA,16.75,0,0
+"kfc","yes",NA,10,"February 1992",11,483,NA,9.5,0,0
+"roys","yes",NA,11.5,"February 1992",10,487,NA,15,0,0
+"roys","no",NA,16,"February 1992",6,488,NA,29.5,0,0
+"roys","no",NA,14,"February 1992",7,489,NA,18.5,0,0
+"roys","yes",NA,16,"February 1992",6,490,NA,20.25,0,0
+"roys","yes",NA,16,"February 1992",6,493,NA,36,0,0
+"roys","no",NA,15,"February 1992",7,495,NA,21,0,0
+"roys","yes",NA,16,"February 1992",6,496,NA,20.5,0,0
+"wendys","yes",NA,12,"February 1992",10,499,NA,19,0,0
+"roys","yes",NA,16,"February 1992",6,509,NA,14,0,0
+"roys","yes",NA,16,"February 1992",6,515,NA,19,0,0
+"bk","no",NA,16.5,"February 1992",6.5,37,NA,32.5,0,0
+"bk","no",NA,17.5,"February 1992",6.5,39,NA,19,0,0
+"bk","no",NA,16.5,"February 1992",6.5,40,NA,27,0,0
+"bk","no",NA,16.5,"February 1992",6.5,41,NA,19.5,0,0
+"bk","no",NA,16.5,"February 1992",6.5,42,NA,24,0,0
+"bk","no",NA,16,"February 1992",7,45,NA,18,0,0
+"bk","no",NA,17,"February 1992",6,47,NA,NA,0,0
+"bk","no",NA,14,"February 1992",7,48,NA,19,0,0
+"kfc","no",NA,12,"February 1992",10,50,NA,14,0,0
+"kfc","no",NA,13,"February 1992",10,51,NA,10.5,0,0
+"wendys","yes",NA,12,"February 1992",10,57,NA,38,0,0
+"wendys","yes",NA,12,"February 1992",10,58,NA,23.5,0,0
+"wendys","no",NA,10.5,"February 1992",7.5,59,NA,10.5,0,0
+"wendys","no",NA,11.5,"February 1992",10.5,60,NA,25,0,0
+"kfc","yes",NA,10,"February 1992",11,407,NA,11,0,0
+"bk","no",NA,15,"February 1992",7,430,NA,36.5,0,0
+"bk","no",NA,16,"February 1992",7,432,NA,52.5,0,0
+"bk","no",NA,16,"February 1992",7,433,NA,29,0,0
+"bk","no",NA,16,"February 1992",7,434,NA,45,0,0
+"bk","no",NA,15.5,"February 1992",6.5,435,NA,22.75,0,0
+"kfc","no",NA,8,"February 1992",11,438,NA,7.5,0,0
+"wendys","no",NA,11.5,"February 1992",10.5,440,NA,15.5,0,0
+"wendys","no",NA,11.5,"February 1992",10.5,441,NA,38,0,0
+"wendys","no",NA,11.5,"February 1992",10.5,443,NA,17.5,0,0
+"wendys","no",NA,12.5,"February 1992",10.5,444,NA,25,0,0
+"bk","no",NA,18,"February 1992",6,446,NA,NA,0,0
+"bk","no",NA,18,"February 1992",6,448,NA,21,0,0
+"bk","no",NA,18,"February 1992",6,449,NA,15.5,0,0
+"bk","no",NA,16.5,"February 1992",6.5,450,NA,15.5,0,0
+"kfc","yes",NA,10,"February 1992",11,454,NA,8.5,0,0
+"roys","yes",NA,16,"February 1992",6,459,NA,18,0,0
+"wendys","no",NA,11.5,"February 1992",10.5,466,NA,20.75,0,0
+"bk","no",NA,18,"February 1992",6,471,NA,39,0,0
+"bk","no",NA,16.5,"February 1992",6.5,472,NA,41.5,0,0
+"bk","no",NA,17,"February 1992",6,473,NA,22.5,0,0
+"bk","no",NA,15,"February 1992",7,475,NA,32,0,0
+"bk","no",NA,18,"February 1992",6,476,NA,24,0,0
+"bk","no",NA,16.5,"February 1992",6.5,477,NA,26,0,0
+"bk","no",NA,19,"February 1992",6,478,NA,48.5,0,0
+"kfc","yes",NA,10,"February 1992",11,485,NA,8.5,0,0
+"roys","no",NA,13,"February 1992",8.5,491,NA,18.5,0,0
+"roys","yes",NA,12.5,"February 1992",9,492,NA,13,0,0
+"wendys","yes",NA,12,"February 1992",10,497,NA,22.5,0,0
+"wendys","yes",NA,12,"February 1992",10,498,NA,28,0,0
+"bk","no",NA,16.5,"February 1992",6.5,501,NA,24.5,0,0
+"bk","no",NA,16.5,"February 1992",6.5,503,NA,18.5,0,0
+"roys","yes",NA,16,"February 1992",6,510,NA,23.5,0,0
+"roys","yes",NA,16.5,"February 1992",6,511,NA,15,0,0
+"roys","no",NA,16,"February 1992",6,514,NA,18,0,0
+"roys","yes",NA,16,"February 1992",6,516,NA,20.25,0,0
+"bk","no",NA,16.5,"February 1992",6.5,521,NA,15.5,0,0
+"bk","no",NA,16,"February 1992",7,522,NA,21,0,0
+"bk","no",NA,16,"February 1992",7,113,NA,15,0,1
+"bk","no",NA,14.5,"February 1992",7,123,NA,15,0,1
+"roys","no",NA,12.5,"February 1992",9,135,NA,24,0,1
+"roys","yes",NA,11.5,"February 1992",10,138,NA,19.25,0,1
+"bk","no",NA,17,"February 1992",7,153,NA,21.5,0,1
+"kfc","no",NA,11,"February 1992",10.5,181,NA,9.5,0,1
+"wendys","no",NA,12,"February 1992",10.5,191,NA,44,0,1
+"bk","no",NA,16,"February 1992",7,231,NA,NA,0,1
+"bk","no",NA,17,"February 1992",7,236,NA,21,0,1
+"wendys","no",NA,16,"February 1992",7,254,NA,28,0,1
+"wendys","no",NA,14,"February 1992",7,255,NA,10,0,1
+"bk","no",NA,16,"February 1992",7,294,NA,20.5,0,1
+"roys","yes",NA,17,"February 1992",6,306,NA,25.5,0,1
+"wendys","no",NA,11.5,"February 1992",10.5,311,NA,19,0,1
+"bk","no",NA,16,"February 1992",7,315,NA,16.5,0,1
+"bk","yes",NA,17,"February 1992",6,335,NA,17,0,1
+"bk","yes",NA,19,"February 1992",6.5,372,NA,27.5,0,1
+"roys","yes",NA,7,"February 1992",11,6,NA,5,0,1
+"kfc","no",NA,11,"February 1992",11,14,NA,16,0,1
+"bk","no",NA,16,"February 1992",7,26,NA,41.5,0,1
+"kfc","yes",NA,10,"February 1992",11,27,NA,13,0,1
+"kfc","no",NA,10,"February 1992",11,30,NA,10,0,1
+"kfc","no",NA,11,"February 1992",11,31,NA,15,0,1
+"roys","no",NA,17,"February 1992",6,33,NA,26,0,1
+"wendys","no",NA,13,"February 1992",10.5,36,NA,18,0,1
+"roys","no",NA,19,"February 1992",6,77,NA,35,0,1
+"roys","yes",NA,17,"February 1992",6,78,NA,21,0,1
+"wendys","no",NA,12,"February 1992",10,81,NA,34.5,0,1
+"wendys","no",NA,13.5,"February 1992",10.5,82,NA,18.25,0,1
+"wendys","no",NA,13.5,"February 1992",10.5,83,NA,24.5,0,1
+"bk","no",NA,12.5,"February 1992",9,85,NA,20,0,1
+"bk","yes",NA,16,"February 1992",7,89,NA,16,0,1
+"kfc","no",NA,10,"February 1992",11,94,NA,17.5,0,1
+"wendys","no",NA,11.5,"February 1992",10.5,103,NA,20.5,0,1
+"wendys","no",NA,14,"February 1992",10,112,NA,20,0,1
+"kfc","yes",NA,11,"February 1992",11,128,NA,12.25,0,1
+"roys","no",NA,16,"February 1992",6,129,NA,33,0,1
+"roys","no",NA,17,"February 1992",6,131,NA,31.5,0,1
+"wendys","no",NA,12.5,"February 1992",10.5,139,NA,NA,0,1
+"wendys","no",NA,11.5,"February 1992",10.5,143,NA,18,0,1
+"wendys","no",NA,12.5,"February 1992",10.5,144,NA,28,0,1
+"bk","no",NA,16,"February 1992",7,145,NA,16.5,0,1
+"bk","no",NA,14,"February 1992",7,147,NA,14.75,0,1
+"bk","no",NA,17,"February 1992",7,148,NA,23.5,0,1
+"bk","no",NA,15,"February 1992",7,151,NA,10,0,1
+"bk","no",NA,15,"February 1992",7,152,NA,46.5,0,1
+"kfc","no",NA,12,"February 1992",10.5,157,NA,15.5,0,1
+"roys","yes",NA,17,"February 1992",6,161,NA,24.5,0,1
+"roys","yes",NA,16.5,"February 1992",6,163,NA,24,0,1
+"roys","yes",NA,19,"February 1992",5,164,NA,23,0,1
+"wendys","no",NA,12.5,"February 1992",10.5,165,NA,28,0,1
+"bk","yes",NA,16,"February 1992",7,169,NA,32.5,0,1
+"bk","yes",NA,16,"February 1992",7,170,NA,23,0,1
+"roys","no",NA,15,"February 1992",7,187,NA,17,0,1
+"roys","yes",NA,16,"February 1992",6,190,NA,30,0,1
+"wendys","yes",NA,11.5,"February 1992",10.5,196,NA,21.5,0,1
+"bk","no",NA,17,"February 1992",7,197,NA,32,0,1
+"bk","no",NA,16,"February 1992",7,234,NA,8,0,1
+"roys","yes",NA,17,"February 1992",6,240,NA,35.5,0,1
+"roys","no",NA,16,"February 1992",7,241,NA,31.5,0,1
+"roys","yes",NA,17,"February 1992",6,242,NA,33,0,1
+"roys","no",NA,13.5,"February 1992",8.5,245,NA,22,0,1
+"bk","no",NA,14.5,"February 1992",7.5,259,NA,23,0,1
+"bk","yes",NA,15,"February 1992",7,268,NA,23,0,1
+"kfc","yes",NA,11,"February 1992",11,271,NA,8.5,0,1
+"kfc","yes",NA,11,"February 1992",11,272,NA,12.5,0,1
+"kfc","yes",NA,10,"February 1992",11,274,NA,9.5,0,1
+"kfc","yes",NA,10.5,"February 1992",11,276,NA,13,0,1
+"bk","yes",NA,16,"February 1992",7,296,NA,17,0,1
+"kfc","yes",NA,11.5,"February 1992",10.5,299,NA,9,0,1
+"kfc","yes",NA,10.5,"February 1992",11,301,NA,19,0,1
+"kfc","no",NA,12,"February 1992",11,320,NA,11.5,0,1
+"kfc","no",NA,12.5,"February 1992",10.5,321,NA,13,0,1
+"roys","no",NA,24,"February 1992",0,324,NA,48,0,1
+"roys","yes",NA,24,"February 1992",0,326,NA,45.5,0,1
+"wendys","no",NA,15.5,"February 1992",10.5,330,NA,15,0,1
+"bk","no",NA,12.5,"February 1992",9,334,NA,18,0,1
+"roys","yes",NA,16,"February 1992",6,349,NA,21,0,1
+"wendys","no",NA,10.5,"February 1992",10.5,354,NA,20.5,0,1
+"wendys","no",NA,11.5,"February 1992",10.5,356,NA,20.5,0,1
+"wendys","no",NA,11.5,"February 1992",10.5,357,NA,17.5,0,1
+"bk","no",NA,16,"February 1992",7,371,NA,27.5,0,1
+"bk","yes",NA,15.5,"February 1992",6.5,373,NA,24,0,1
+"bk","no",NA,15,"February 1992",7,375,NA,34,0,1
+"bk","yes",NA,18.5,"February 1992",6.5,378,NA,18,0,1
+"bk","no",NA,16.5,"February 1992",6.5,381,NA,24,0,1
+"roys","yes",NA,18,"February 1992",6,403,NA,NA,0,1
+"wendys","yes",NA,11.5,"February 1992",10.5,406,NA,33.5,0,1
+"wendys","yes",NA,10.5,"February 1992",11,408,NA,12,0,1
+"bk","no",NA,15,"February 1992",7,409,NA,35,0,1
+"bk","no",NA,16,"February 1992",7,1,NA,35,0,1
+"bk","no",NA,14,"February 1992",7,2,NA,16,0,1
+"kfc","no",NA,10,"February 1992",11,3,NA,15.5,0,1
+"roys","no",NA,12.5,"February 1992",9,4,NA,19,0,1
+"roys","no",NA,17,"February 1992",6,5,NA,24,0,1
+"wendys","no",NA,12,"February 1992",10.5,8,NA,NA,0,1
+"bk","no",NA,16,"February 1992",7,9,NA,36,0,1
+"bk","no",NA,16,"February 1992",7,10,NA,29,0,1
+"bk","no",NA,16,"February 1992",7,11,NA,29,0,1
+"bk","no",NA,16,"February 1992",7,12,NA,21.25,0,1
+"kfc","no",NA,10,"February 1992",11,13,NA,15.5,0,1
+"roys","no",NA,17,"February 1992",6,15,NA,19.5,0,1
+"roys","no",NA,17,"February 1992",6,16,NA,21,0,1
+"roys","no",NA,17,"February 1992",6,17,NA,14,0,1
+"roys","no",NA,17,"February 1992",6,18,NA,30.5,0,1
+"bk","no",NA,16,"February 1992",6,19,NA,23.5,0,1
+"kfc","no",NA,10.5,"February 1992",10.5,21,NA,14,0,1
+"roys","no",NA,16,"February 1992",7,22,NA,14.5,0,1
+"bk","no",NA,16,"February 1992",7,23,NA,15.5,0,1
+"bk","no",NA,16,"February 1992",7,24,NA,26.5,0,1
+"kfc","no",NA,10,"February 1992",11,28,NA,8,0,1
+"kfc","no",NA,11,"February 1992",11,29,NA,5.5,0,1
+"roys","no",NA,11.5,"February 1992",10.5,32,NA,23.25,0,1
+"roys","yes",NA,11.5,"February 1992",10.5,34,NA,15.5,0,1
+"wendys","no",NA,11.5,"February 1992",10.5,35,NA,32.25,0,1
+"bk","no",NA,17,"February 1992",6,38,NA,30,0,1
+"bk","yes",NA,18,"February 1992",6,63,NA,NA,0,1
+"bk","no",NA,16,"February 1992",7,64,NA,30.5,0,1
+"bk","no",NA,15.5,"February 1992",6.5,65,NA,14,0,1
+"bk","no",NA,17,"February 1992",7,66,NA,27,0,1
+"bk","no",NA,13.5,"February 1992",8,67,NA,18.5,0,1
+"bk","no",NA,17,"February 1992",7,68,NA,38,0,1
+"bk","no",NA,18,"February 1992",7,69,NA,16.5,0,1
+"bk","no",NA,16,"February 1992",7,70,NA,50,0,1
+"bk","no",NA,17,"February 1992",7,71,NA,20.5,0,1
+"kfc","no",NA,12,"February 1992",11,73,NA,6.5,0,1
+"kfc","no",NA,11,"February 1992",11,75,NA,13.5,0,1
+"roys","yes",NA,17,"February 1992",6,76,NA,28,0,1
+"roys","yes",NA,17,"February 1992",6,79,NA,21.5,0,1
+"wendys","no",NA,11.5,"February 1992",10.5,80,NA,NA,0,1
+"bk","no",NA,16,"February 1992",7,84,NA,24,0,1
+"bk","no",NA,15,"February 1992",7,86,NA,20.5,0,1
+"bk","no",NA,15,"February 1992",7,87,NA,NA,0,1
+"bk","no",NA,15,"February 1992",7,88,NA,23.5,0,1
+"bk","yes",NA,17,"February 1992",7,91,NA,23,0,1
+"bk","yes",NA,15,"February 1992",7,92,NA,17,0,1
+"bk","yes",NA,16,"February 1992",7,93,NA,20.5,0,1
+"kfc","no",NA,10,"February 1992",11,95,NA,23.5,0,1
+"kfc","no",NA,10,"February 1992",11.5,96,NA,9.5,0,1
+"kfc","no",NA,10,"February 1992",11,97,NA,10,0,1
+"kfc","no",NA,10,"February 1992",11,98,NA,14,0,1
+"roys","yes",NA,24,"February 1992",0,99,NA,85,0,1
+"roys","no",NA,15,"February 1992",7,101,NA,15,0,1
+"roys","no",NA,16,"February 1992",7,102,NA,21.5,0,1
+"wendys","no",NA,11.5,"February 1992",10.5,104,NA,53,0,1
+"bk","no",NA,16.5,"February 1992",6.5,105,NA,24,0,1
+"bk","no",NA,16,"February 1992",7,106,NA,20.5,0,1
+"bk","yes",NA,14.5,"February 1992",8,107,NA,14.5,0,1
+"bk","no",NA,17,"February 1992",7,108,NA,25,0,1
+"roys","no",NA,16,"February 1992",7,111,NA,27,0,1
+"bk","no",NA,16,"February 1992",7,114,NA,22.5,0,1
+"bk","no",NA,17,"February 1992",7,115,NA,36.5,0,1
+"bk","no",NA,13,"February 1992",8.5,116,NA,17.25,0,1
+"bk","no",NA,15,"February 1992",7,118,NA,21.5,0,1
+"bk","no",NA,16.5,"February 1992",6.5,119,NA,24.5,0,1
+"bk","yes",NA,16,"February 1992",7,120,NA,19,0,1
+"bk","no",NA,12.5,"February 1992",9,122,NA,25,0,1
+"bk","no",NA,15,"February 1992",8,124,NA,16,0,1
+"kfc","no",NA,12.5,"February 1992",10,125,NA,19,0,1
+"roys","yes",NA,18,"February 1992",5,130,NA,22.75,0,1
+"roys","yes",NA,24,"February 1992",0,132,NA,35,0,1
+"roys","yes",NA,17,"February 1992",6,133,NA,16,0,1
+"roys","no",NA,16,"February 1992",6,134,NA,21,0,1
+"roys","yes",NA,17,"February 1992",6,136,NA,26.75,0,1
+"roys","yes",NA,16,"February 1992",6,137,NA,30.5,0,1
+"wendys","no",NA,11.5,"February 1992",10.5,140,NA,23,0,1
+"wendys","no",NA,12.5,"February 1992",10.5,141,NA,21.5,0,1
+"wendys","no",NA,11.5,"February 1992",10,142,NA,36.5,0,1
+"bk","no",NA,16,"February 1992",7,146,NA,23,0,1
+"bk","no",NA,16,"February 1992",7,149,NA,14,0,1
+"bk","no",NA,16,"February 1992",7,150,NA,17.25,0,1
+"bk","no",NA,15,"February 1992",7,156,NA,18.5,0,1
+"kfc","no",NA,10,"February 1992",11,158,NA,8.5,0,1
+"kfc","no",NA,10.5,"February 1992",10.5,159,NA,14,0,1
+"roys","yes",NA,16.5,"February 1992",6,162,NA,23,0,1
+"wendys","no",NA,11.5,"February 1992",10.5,166,NA,29,0,1
+"bk","no",NA,15,"February 1992",7,168,NA,19,0,1
+"bk","yes",NA,16,"February 1992",7,171,NA,21,0,1
+"bk","no",NA,12.5,"February 1992",9,172,NA,17,0,1
+"bk","no",NA,17.5,"February 1992",6.5,173,NA,36,0,1
+"bk","no",NA,16,"February 1992",7,174,NA,25,0,1
+"bk","no",NA,16,"February 1992",7,176,NA,29.5,0,1
+"kfc","yes",NA,10,"February 1992",11,178,NA,22,0,1
+"kfc","no",NA,10.5,"February 1992",10.5,179,NA,11,0,1
+"kfc","no",NA,11,"February 1992",11,180,NA,13.5,0,1
+"kfc","no",NA,11,"February 1992",11,182,NA,13.5,0,1
+"kfc","no",NA,11,"February 1992",11,183,NA,18,0,1
+"kfc","no",NA,10.5,"February 1992",11,185,NA,9.5,0,1
+"roys","no",NA,16,"February 1992",6,186,NA,24,0,1
+"roys","no",NA,15,"February 1992",7,189,NA,14.5,0,1
+"wendys","no",NA,12,"February 1992",10,192,NA,29,0,1
+"wendys","no",NA,11,"February 1992",10,193,NA,10.5,0,1
+"wendys","no",NA,11.5,"February 1992",10.5,195,NA,18,0,1
+"bk","no",NA,16,"February 1992",7,198,NA,NA,0,1
+"kfc","no",NA,10,"February 1992",11,199,NA,9,0,1
+"bk","no",NA,18,"February 1992",6,200,NA,33,0,1
+"bk","no",NA,17,"February 1992",7,201,NA,19.5,0,1
+"bk","no",NA,19,"February 1992",6,202,NA,41,0,1
+"bk","no",NA,17,"February 1992",7,203,NA,17,0,1
+"bk","no",NA,17.5,"February 1992",6.5,204,NA,18.25,0,1
+"kfc","yes",NA,12,"February 1992",11,207,NA,17,0,1
+"roys","yes",NA,17,"February 1992",6,208,NA,32,0,1
+"roys","yes",NA,18,"February 1992",6,209,NA,26,0,1
+"wendys","yes",NA,11.5,"February 1992",10.5,210,NA,11.5,0,1
+"bk","no",NA,15,"February 1992",7,211,NA,21,0,1
+"bk","no",NA,16,"February 1992",7,212,NA,22.75,0,1
+"bk","yes",NA,17.5,"February 1992",6.5,213,NA,18.5,0,1
+"bk","no",NA,16,"February 1992",7,214,NA,20,0,1
+"bk","no",NA,16,"February 1992",7,215,NA,18,0,1
+"kfc","no",NA,10.5,"February 1992",11,216,NA,10.5,0,1
+"kfc","yes",NA,10,"February 1992",11,217,NA,10.5,0,1
+"kfc","yes",NA,10,"February 1992",11,218,NA,11,0,1
+"kfc","yes",NA,10,"February 1992",11,219,NA,10.5,0,1
+"kfc","no",NA,10,"February 1992",11,220,NA,12.5,0,1
+"kfc","no",NA,11,"February 1992",11,221,NA,18,0,1
+"roys","yes",NA,12.5,"February 1992",9,222,NA,17,0,1
+"roys","yes",NA,16,"February 1992",6,223,NA,15,0,1
+"roys","yes",NA,17,"February 1992",6,225,NA,19.5,0,1
+"wendys","no",NA,11.5,"February 1992",10.5,226,NA,13,0,1
+"wendys","no",NA,12.5,"February 1992",10.5,228,NA,20.25,0,1
+"bk","no",NA,13.5,"February 1992",8.5,229,NA,26,0,1
+"bk","no",NA,17,"February 1992",7,230,NA,15.5,0,1
+"bk","no",NA,16,"February 1992",7,232,NA,24,0,1
+"bk","no",NA,16,"February 1992",7,233,NA,25.5,0,1
+"bk","no",NA,16,"February 1992",7,235,NA,14.5,0,1
+"bk","no",NA,16,"February 1992",7,237,NA,21.5,0,1
+"kfc","yes",NA,12,"February 1992",11,238,NA,14,0,1
+"kfc","no",NA,13.5,"February 1992",10.5,239,NA,20,0,1
+"roys","yes",NA,16.5,"February 1992",6,243,NA,22.5,0,1
+"roys","yes",NA,18,"February 1992",6,244,NA,30,0,1
+"wendys","no",NA,15.5,"February 1992",10.5,247,NA,24,0,1
+"wendys","no",NA,16,"February 1992",10,248,NA,22,0,1
+"bk","no",NA,15,"February 1992",7,249,NA,13,0,1
+"kfc","yes",NA,10,"February 1992",11,250,NA,5,0,1
+"roys","yes",NA,13,"February 1992",7,253,NA,13.5,0,1
+"bk","no",NA,16,"February 1992",7,257,NA,28,0,1
+"bk","no",NA,16,"February 1992",7,258,NA,18,0,1
+"bk","yes",NA,16,"February 1992",7,260,NA,24,0,1
+"bk","no",NA,16.5,"February 1992",6.5,262,NA,16.5,0,1
+"bk","no",NA,15,"February 1992",7,264,NA,7,0,1
+"bk","no",NA,16,"February 1992",7,265,NA,11,0,1
+"bk","no",NA,16,"February 1992",7,267,NA,19.5,0,1
+"kfc","yes",NA,10,"February 1992",11,269,NA,10,0,1
+"kfc","yes",NA,10,"February 1992",11,273,NA,13,0,1
+"kfc","yes",NA,11,"February 1992",11,275,NA,10,0,1
+"kfc","yes",NA,10,"February 1992",11,277,NA,12.5,0,1
+"kfc","yes",NA,10,"February 1992",11,278,NA,8,0,1
+"roys","yes",NA,16,"February 1992",6,282,NA,12,0,1
+"roys","yes",NA,16,"February 1992",6,284,NA,20.5,0,1
+"roys","yes",NA,16,"February 1992",6,285,NA,18.5,0,1
+"roys","yes",NA,11.5,"February 1992",10,286,NA,11.5,0,1
+"roys","yes",NA,16,"February 1992",6,287,NA,15,0,1
+"roys","yes",NA,16,"February 1992",6,288,NA,13,0,1
+"roys","yes",NA,16,"February 1992",6,289,NA,10,0,1
+"wendys","no",NA,12.5,"February 1992",10.5,290,NA,17,0,1
+"wendys","no",NA,11.5,"February 1992",10.5,291,NA,17,0,1
+"wendys","no",NA,16,"February 1992",7,292,NA,20.5,0,1
+"bk","no",NA,16.5,"February 1992",6.5,295,NA,15.5,0,1
+"bk","yes",NA,16,"February 1992",7,297,NA,19.5,0,1
+"roys","yes",NA,17,"February 1992",6,303,NA,30.5,0,1
+"roys","no",NA,17,"February 1992",6,304,NA,23,0,1
+"roys","yes",NA,17,"February 1992",6,305,NA,13,0,1
+"roys","yes",NA,18,"February 1992",6,307,NA,30.25,0,1
+"wendys","no",NA,11.5,"February 1992",10.5,310,NA,18,0,1
+"bk","no",NA,11,"February 1992",8,312,NA,10,0,1
+"bk","no",NA,15,"February 1992",7,313,NA,19.5,0,1
+"bk","no",NA,15,"February 1992",7,314,NA,17,0,1
+"bk","yes",NA,16,"February 1992",7,316,NA,25.5,0,1
+"bk","no",NA,12,"February 1992",8,317,NA,6,0,1
+"kfc","no",NA,12,"February 1992",11,318,NA,11.5,0,1
+"kfc","no",NA,12.5,"February 1992",10.5,319,NA,8.5,0,1
+"roys","yes",NA,16,"February 1992",6,322,NA,18.5,0,1
+"roys","yes",NA,15,"February 1992",6,325,NA,15.5,0,1
+"bk","no",NA,15,"February 1992",7,333,NA,14.25,0,1
+"bk","no",NA,15,"February 1992",7,336,NA,38,0,1
+"bk","yes",NA,17,"February 1992",7,337,NA,24.75,0,1
+"bk","yes",NA,16,"February 1992",7,339,NA,23,0,1
+"bk","no",NA,14.5,"February 1992",7.5,340,NA,24,0,1
+"kfc","yes",NA,9.5,"February 1992",11,341,NA,7.5,0,1
+"kfc","yes",NA,10.5,"February 1992",11,343,NA,15,0,1
+"kfc","yes",NA,10,"February 1992",11,346,NA,9.25,0,1
+"roys","yes",NA,10.5,"February 1992",10.5,348,NA,11.25,0,1
+"roys","yes",NA,16,"February 1992",6,350,NA,16.5,0,1
+"roys","yes",NA,16,"February 1992",6,351,NA,18.75,0,1
+"roys","yes",NA,11.5,"February 1992",10,352,NA,13.5,0,1
+"roys","yes",NA,16,"February 1992",6,353,NA,21.75,0,1
+"wendys","no",NA,11.5,"February 1992",10.5,355,NA,13.5,0,1
+"bk","yes",NA,15,"February 1992",7,359,NA,15,0,1
+"bk","no",NA,15,"February 1992",7,360,NA,17.5,0,1
+"bk","no",NA,16,"February 1992",7,361,NA,17.5,0,1
+"kfc","no",NA,12.5,"February 1992",10.5,362,NA,NA,0,1
+"kfc","no",NA,12.5,"February 1992",10.5,363,NA,15.5,0,1
+"kfc","no",NA,12,"February 1992",11,364,NA,16.5,0,1
+"roys","no",NA,11.5,"February 1992",10.5,366,NA,13.5,0,1
+"wendys","no",NA,12.5,"February 1992",10.5,368,NA,13,0,1
+"bk","yes",NA,15,"February 1992",7,369,NA,11.5,0,1
+"bk","no",NA,16,"February 1992",7,370,NA,29.05,0,1
+"bk","no",NA,14,"February 1992",8,376,NA,13,0,1
+"bk","no",NA,14,"February 1992",8,377,NA,18,0,1
+"bk","no",NA,16,"February 1992",7,379,NA,30,0,1
+"bk","no",NA,16,"February 1992",7,380,NA,20.5,0,1
+"bk","no",NA,16,"February 1992",7,383,NA,10,0,1
+"bk","no",NA,16,"February 1992",7,384,NA,NA,0,1
+"bk","no",NA,17,"February 1992",7,385,NA,26,0,1
+"bk","no",NA,17,"February 1992",7,386,NA,12.5,0,1
+"kfc","no",NA,10,"February 1992",11,391,NA,19.5,0,1
+"kfc","yes",NA,11,"February 1992",11,393,NA,12,0,1
+"roys","yes",NA,17,"February 1992",6,396,NA,36,0,1
+"roys","yes",NA,17,"February 1992",6,397,NA,21,0,1
+"roys","yes",NA,17,"February 1992",6,398,NA,24.5,0,1
+"roys","yes",NA,17,"February 1992",6,399,NA,20,0,1
+"roys","yes",NA,17,"February 1992",6,400,NA,26.5,0,1
+"roys","no",NA,16,"February 1992",7,401,NA,15,0,1
+"roys","yes",NA,16,"February 1992",6,402,NA,19,0,1
+"roys","yes",NA,17,"February 1992",6,405,NA,17.5,0,1
+"bk","no",NA,16,"February 1992",7,410,NA,20.5,0,1
+"bk","no",NA,16,"February 1992",7,411,NA,21,0,1
+"kfc","no",NA,11,"February 1992",11,412,NA,10.5,0,1
+"bk","no",NA,17,"February 1992",6,413,NA,23,0,1
+"bk","no",NA,16,"February 1992",7,414,NA,23,0,1
+"bk","no",NA,16,"February 1992",7,415,NA,29,0,1
+"bk","yes",NA,16,"February 1992",7,417,NA,21,0,1
+"bk","no",NA,15,"February 1992",8,418,NA,41.5,0,1
+"kfc","yes",NA,11,"February 1992",11,419,NA,12,0,1
+"kfc","yes",NA,13,"February 1992",10.5,421,NA,33,0,1
+"kfc","no",NA,11,"February 1992",10,422,NA,6.5,0,1
+"kfc","yes",NA,12,"February 1992",11,423,NA,9,0,1
+"kfc","yes",NA,11,"February 1992",11,424,NA,9.75,0,1
+"roys","yes",NA,19,"February 1992",5,426,NA,24.5,0,1
+"wendys","no",NA,12.5,"February 1992",10.5,427,NA,14,0,1
+"wendys","no",NA,12.5,"February 1992",10.5,428,NA,19.5,0,1
+"bk","no",1992-11-17,16.5,"November 1992",6.5,46,"answered 2nd interview",24,1,0
+"kfc","no",1992-11-12,13,"November 1992",10,49,"answered 2nd interview",11.5,1,0
+"kfc","yes",1992-11-12,11,"November 1992",11,506,"answered 2nd interview",10.5,1,0
+"wendys","yes",1992-11-14,12,"November 1992",10,56,"answered 2nd interview",20,1,0
+"wendys","yes",1992-11-14,12,"November 1992",10,61,"answered 2nd interview",35.5,1,0
+"wendys","yes",1992-11-14,12,"November 1992",10,62,"answered 2nd interview",NA,1,0
+"bk","no",1992-11-07,18,"November 1992",6,445,"answered 2nd interview",29,1,0
+"bk","no",1992-11-17,24,"November 1992",0,451,"answered 2nd interview",36.5,1,0
+"kfc","yes",1992-11-12,11,"November 1992",11,455,"answered 2nd interview",11,1,0
+"kfc","yes",1992-11-17,10.5,"November 1992",11,458,"answered 2nd interview",8.5,1,0
+"roys","yes",1992-12-22,12,"November 1992",9,462,"answered 2nd interview",17.5,1,0
+"bk","no",1992-11-07,18,"November 1992",6,468,"answered 2nd interview",29,1,0
+"bk","no",1992-11-16,18,"November 1992",6,469,"answered 2nd interview",30.5,1,0
+"bk","no",1992-11-17,18,"November 1992",6,470,"answered 2nd interview",26,1,0
+"bk","no",1992-12-22,13,"November 1992",8.5,474,"answered 2nd interview",18,1,0
+"kfc","yes",1992-11-17,11,"November 1992",11,481,"answered 2nd interview",20,1,0
+"kfc","yes",1992-11-12,11,"November 1992",11,483,"answered 2nd interview",13.5,1,0
+"roys","yes",1992-11-11,11,"November 1992",10.5,487,"answered 2nd interview",19,1,0
+"roys","no",1992-11-11,15,"November 1992",7,488,"answered 2nd interview",15.5,1,0
+"roys","no",1992-11-18,11.5,"November 1992",10,489,"answered 2nd interview",14.5,1,0
+"roys","yes",1992-11-16,16,"November 1992",6,490,"answered 2nd interview",14,1,0
+"roys","yes",1992-11-11,16,"November 1992",6,493,"answered 2nd interview",19,1,0
+"roys","no",1992-11-11,16,"November 1992",6,495,"answered 2nd interview",21,1,0
+"roys","yes",1992-11-11,16,"November 1992",6,496,"answered 2nd interview",18,1,0
+"wendys","yes",1992-11-14,12,"November 1992",10,499,"answered 2nd interview",20.5,1,0
+"roys","yes",1992-11-11,15.5,"November 1992",6.5,509,"answered 2nd interview",13.5,1,0
+"roys","yes",1992-11-11,16,"November 1992",6,515,"answered 2nd interview",17.5,1,0
+"bk","no",1992-11-10,16.5,"November 1992",6.5,37,"answered 2nd interview",25.5,1,0
+"bk","no",1992-11-17,16.5,"November 1992",6.5,39,"answered 2nd interview",15.5,1,0
+"bk","no",1992-11-10,17.5,"November 1992",6.5,40,"answered 2nd interview",25.5,1,0
+"bk","no",1992-11-18,17.5,"November 1992",6.5,41,"answered 2nd interview",27,1,0
+"bk","no",1992-11-17,16.5,"November 1992",6.5,42,"answered 2nd interview",16,1,0
+"bk","no",1992-11-10,17.5,"November 1992",6.5,45,"answered 2nd interview",19,1,0
+"bk","no",1992-11-10,18,"November 1992",6,47,"answered 2nd interview",24.5,1,0
+"bk","no",1992-11-10,14,"November 1992",7,48,"answered 2nd interview",25,1,0
+"kfc","no",1992-11-12,13,"November 1992",10,50,"answered 2nd interview",17,1,0
+"kfc","no",1992-11-17,13,"November 1992",10,51,"answered 2nd interview",16.5,1,0
+"wendys","yes",1992-11-14,12,"November 1992",10,57,"answered 2nd interview",20,1,0
+"wendys","yes",1992-11-14,12,"November 1992",10,58,"answered 2nd interview",18,1,0
+"wendys","no",1992-11-14,10.5,"November 1992",7.5,59,"answered 2nd interview",12,1,0
+"wendys","no",1992-11-17,12,"November 1992",10,60,"answered 2nd interview",25,1,0
+"kfc","yes",1992-11-14,11,"November 1992",11,407,"answered 2nd interview",11,1,0
+"bk","no",1992-11-07,16,"November 1992",7,430,"answered 2nd interview",27,1,0
+"bk","no",1992-11-07,16,"November 1992",7,432,"answered 2nd interview",34,1,0
+"bk","no",1992-12-30,16,"November 1992",7,433,"answered 2nd interview",25,1,0
+"bk","no",1992-11-16,16,"November 1992",7,434,"answered 2nd interview",37.5,1,0
+"bk","no",1992-11-07,15.5,"November 1992",6.5,435,"answered 2nd interview",21,1,0
+"kfc","no",1992-11-12,9,"November 1992",11,438,"answered 2nd interview",9.5,1,0
+"wendys","no",1992-11-13,11.5,"November 1992",10.5,440,"answered 2nd interview",18,1,0
+"wendys","no",1992-11-13,11.5,"November 1992",10.5,441,"answered 2nd interview",18,1,0
+"wendys","no",1992-11-13,11.5,"November 1992",10.5,443,"answered 2nd interview",19,1,0
+"wendys","no",1992-11-13,11.5,"November 1992",10.5,444,"answered 2nd interview",31.5,1,0
+"bk","no",1992-11-07,18,"November 1992",6,446,"answered 2nd interview",23,1,0
+"bk","no",1992-11-18,18,"November 1992",6,448,"answered 2nd interview",24.5,1,0
+"bk","no",1992-11-07,18,"November 1992",6,449,"answered 2nd interview",27.5,1,0
+"bk","no",1992-11-18,18,"November 1992",6,450,"answered 2nd interview",34.5,1,0
+"kfc","yes",1992-11-12,11,"November 1992",11,454,"answered 2nd interview",14,1,0
+"roys","yes",1992-12-22,15,"November 1992",7,459,"answered 2nd interview",15,1,0
+"wendys","no",1992-11-18,11.5,"November 1992",10.5,466,"answered 2nd interview",23,1,0
+"bk","no",1992-11-16,18,"November 1992",6,471,"answered 2nd interview",26.5,1,0
+"bk","no",1992-11-07,17,"November 1992",6,472,"answered 2nd interview",23.5,1,0
+"bk","no",1992-11-17,17,"November 1992",6,473,"answered 2nd interview",35.5,1,0
+"bk","no",1992-11-07,15,"November 1992",7,475,"answered 2nd interview",21,1,0
+"bk","no",1992-11-17,18,"November 1992",6,476,"answered 2nd interview",23,1,0
+"bk","no",1992-11-07,17,"November 1992",6,477,"answered 2nd interview",20,1,0
+"bk","no",1992-12-22,18,"November 1992",6,478,"answered 2nd interview",27,1,0
+"kfc","yes",1992-11-12,11,"November 1992",11,485,"answered 2nd interview",13,1,0
+"roys","no",1992-12-30,NA,"November 1992",NA,491,"closed permanently",0,1,0
+"roys","yes",1992-11-11,12.5,"November 1992",9,492,"answered 2nd interview",13.5,1,0
+"wendys","yes",1992-11-13,12,"November 1992",10,497,"answered 2nd interview",NA,1,0
+"wendys","yes",1992-11-17,12,"November 1992",10,498,"answered 2nd interview",26.75,1,0
+"bk","no",1992-11-17,18,"November 1992",6,501,"answered 2nd interview",43.5,1,0
+"bk","no",1992-11-07,18,"November 1992",6,503,"answered 2nd interview",41.25,1,0
+"roys","yes",1992-11-18,15,"November 1992",7,510,"answered 2nd interview",14.25,1,0
+"roys","yes",1992-11-11,15,"November 1992",7,511,"answered 2nd interview",12.5,1,0
+"roys","no",1992-11-11,16,"November 1992",6,514,"answered 2nd interview",34,1,0
+"roys","yes",1992-11-16,14,"November 1992",8,516,"answered 2nd interview",10,1,0
+"bk","no",1992-11-07,16,"November 1992",7,521,"answered 2nd interview",14,1,0
+"bk","no",1992-11-07,16,"November 1992",7,522,"answered 2nd interview",17.5,1,0
+"bk","no",1992-11-10,16,"November 1992",7,113,"answered 2nd interview",27,1,1
+"bk","no",1992-11-10,14,"November 1992",7.5,123,"answered 2nd interview",21.5,1,1
+"roys","no",1992-11-16,11.5,"November 1992",10,135,"answered 2nd interview",23,1,1
+"roys","yes",1992-11-16,11.5,"November 1992",10,138,"answered 2nd interview",21.5,1,1
+"bk","no",1992-11-10,17,"November 1992",7,153,"answered 2nd interview",34.5,1,1
+"kfc","no",1992-11-11,11,"November 1992",10.5,181,"answered 2nd interview",10.5,1,1
+"wendys","no",1992-11-17,12,"November 1992",10.5,191,"answered 2nd interview",16.5,1,1
+"bk","no",1992-11-10,16,"November 1992",7,231,"answered 2nd interview",23,1,1
+"bk","no",1992-11-17,18,"November 1992",7,236,"answered 2nd interview",38,1,1
+"wendys","no",1992-11-14,15,"November 1992",7,254,"answered 2nd interview",36,1,1
+"wendys","no",1992-11-13,14,"November 1992",7,255,"answered 2nd interview",16,1,1
+"bk","no",1992-11-09,16,"November 1992",7,294,"answered 2nd interview",20.5,1,1
+"roys","yes",1992-11-17,18,"November 1992",6,306,"answered 2nd interview",19,1,1
+"wendys","no",1992-11-13,11.5,"November 1992",10.5,311,"answered 2nd interview",53,1,1
+"bk","no",1992-11-09,16,"November 1992",7,315,"answered 2nd interview",16.5,1,1
+"bk","yes",1992-11-18,17,"November 1992",6,335,"answered 2nd interview",16.5,1,1
+"bk","yes",1992-11-17,18.5,"November 1992",6.5,372,"answered 2nd interview",45,1,1
+"roys","yes",1992-11-17,8,"November 1992",10,6,"answered 2nd interview",8,1,1
+"kfc","no",1992-11-05,11,"November 1992",11,14,"answered 2nd interview",15.5,1,1
+"bk","no",1992-11-17,16,"November 1992",7,26,"answered 2nd interview",24,1,1
+"kfc","yes",1992-11-12,10,"November 1992",11,27,"answered 2nd interview",7.5,1,1
+"kfc","no",1992-11-12,10,"November 1992",11,30,"answered 2nd interview",7.5,1,1
+"kfc","no",1992-11-14,12.5,"November 1992",10.5,31,"answered 2nd interview",18.5,1,1
+"roys","no",1992-11-13,17,"November 1992",6,33,"answered 2nd interview",16.5,1,1
+"wendys","no",1992-11-14,12.5,"November 1992",10.5,36,"answered 2nd interview",33.5,1,1
+"roys","no",1992-11-19,19,"November 1992",6,77,"answered 2nd interview",37,1,1
+"roys","yes",1992-11-13,16,"November 1992",7,78,"answered 2nd interview",18,1,1
+"wendys","no",1992-12-15,11.5,"November 1992",10.5,81,"answered 2nd interview",26.5,1,1
+"wendys","no",1992-11-14,13.5,"November 1992",10.5,82,"answered 2nd interview",33,1,1
+"wendys","no",1992-11-17,14,"November 1992",10,83,"answered 2nd interview",NA,1,1
+"bk","no",1992-11-16,12.5,"November 1992",9,85,"answered 2nd interview",20.5,1,1
+"bk","yes",1992-11-10,16,"November 1992",7,89,"answered 2nd interview",24.5,1,1
+"kfc","no",1992-11-12,10,"November 1992",11,94,"answered 2nd interview",16,1,1
+"wendys","no",1992-11-14,12.5,"November 1992",10.5,103,"answered 2nd interview",NA,1,1
+"wendys","no",1992-12-13,12.5,"November 1992",10.5,112,"answered 2nd interview",23.5,1,1
+"kfc","yes",1992-11-14,11,"November 1992",11,128,"answered 2nd interview",13,1,1
+"roys","no",1992-11-13,16,"November 1992",6,129,"answered 2nd interview",20,1,1
+"roys","no",1992-12-16,15,"November 1992",7,131,"answered 2nd interview",22,1,1
+"wendys","no",1992-11-14,12,"November 1992",11,139,"answered 2nd interview",28.5,1,1
+"wendys","no",1992-12-16,NA,"November 1992",NA,143,"closed for highway construction",NA,1,1
+"wendys","no",1992-11-17,12.5,"November 1992",10.5,144,"answered 2nd interview",25.5,1,1
+"bk","no",1992-11-10,16,"November 1992",7,145,"answered 2nd interview",18,1,1
+"bk","no",1992-11-18,14,"November 1992",7,147,"answered 2nd interview",9,1,1
+"bk","no",1992-11-10,17,"November 1992",7,148,"answered 2nd interview",26.5,1,1
+"bk","no",1992-12-30,NA,"November 1992",NA,151,"closed permanently",0,1,1
+"bk","no",1992-11-10,15,"November 1992",7,152,"answered 2nd interview",23.75,1,1
+"kfc","no",1992-11-17,11,"November 1992",10.5,157,"answered 2nd interview",18,1,1
+"roys","yes",1992-11-19,17,"November 1992",6,161,"answered 2nd interview",36,1,1
+"roys","yes",1992-11-12,15,"November 1992",7,163,"answered 2nd interview",21,1,1
+"roys","yes",1992-11-12,17,"November 1992",6,164,"answered 2nd interview",15.5,1,1
+"wendys","no",1992-11-17,12.5,"November 1992",10.5,165,"answered 2nd interview",22.5,1,1
+"bk","yes",1992-11-16,16,"November 1992",7,169,"answered 2nd interview",27,1,1
+"bk","yes",1992-11-10,16,"November 1992",7,170,"answered 2nd interview",34,1,1
+"roys","no",1992-11-12,15,"November 1992",7,187,"answered 2nd interview",16.75,1,1
+"roys","yes",1992-11-12,15,"November 1992",7,190,"answered 2nd interview",26,1,1
+"wendys","yes",1992-11-13,12.5,"November 1992",10.5,196,"answered 2nd interview",18,1,1
+"bk","no",1992-11-17,17,"November 1992",7,197,"answered 2nd interview",20.5,1,1
+"bk","no",1992-11-18,16,"November 1992",7,234,"answered 2nd interview",15,1,1
+"roys","yes",1992-11-16,17,"November 1992",6,240,"answered 2nd interview",25.5,1,1
+"roys","no",1992-11-11,16,"November 1992",7,241,"answered 2nd interview",NA,1,1
+"roys","yes",1992-11-11,16,"November 1992",7,242,"answered 2nd interview",20,1,1
+"roys","no",1992-11-17,13,"November 1992",8.5,245,"answered 2nd interview",18,1,1
+"bk","no",1992-11-09,14.5,"November 1992",7.5,259,"answered 2nd interview",26.5,1,1
+"bk","yes",1992-11-09,15,"November 1992",7,268,"answered 2nd interview",23.25,1,1
+"kfc","yes",1992-11-17,12,"November 1992",11,271,"answered 2nd interview",10.5,1,1
+"kfc","yes",1992-11-14,12,"November 1992",11,272,"answered 2nd interview",12,1,1
+"kfc","yes",1992-11-13,11,"November 1992",11,274,"answered 2nd interview",9.5,1,1
+"kfc","yes",1992-11-13,12,"November 1992",11,276,"answered 2nd interview",15.5,1,1
+"bk","yes",1992-11-18,16,"November 1992",7,296,"answered 2nd interview",14.5,1,1
+"kfc","yes",1992-11-17,11.5,"November 1992",11,299,"answered 2nd interview",14,1,1
+"kfc","yes",1992-11-14,10.5,"November 1992",11,301,"answered 2nd interview",6.5,1,1
+"kfc","no",1992-11-13,11,"November 1992",11,320,"answered 2nd interview",10,1,1
+"kfc","no",1992-11-14,12,"November 1992",11,321,"answered 2nd interview",11.5,1,1
+"roys","no",1992-12-18,24,"November 1992",0,324,"answered 2nd interview",46.5,1,1
+"roys","yes",1992-11-18,24,"November 1992",0,326,"answered 2nd interview",26.5,1,1
+"wendys","no",1992-11-13,14.5,"November 1992",10.5,330,"answered 2nd interview",16,1,1
+"bk","no",1992-11-09,12.5,"November 1992",9,334,"answered 2nd interview",13,1,1
+"roys","yes",1992-11-11,15,"November 1992",7,349,"answered 2nd interview",14,1,1
+"wendys","no",1992-11-13,10.5,"November 1992",10.5,354,"answered 2nd interview",15.5,1,1
+"wendys","no",1992-11-14,11.5,"November 1992",10.5,356,"answered 2nd interview",18,1,1
+"wendys","no",1992-11-13,12.5,"November 1992",10.5,357,"answered 2nd interview",27,1,1
+"bk","no",1992-11-07,16,"November 1992",7,371,"answered 2nd interview",27,1,1
+"bk","yes",1992-11-07,15.5,"November 1992",6.5,373,"answered 2nd interview",29.5,1,1
+"bk","no",1992-11-16,15,"November 1992",7,375,"answered 2nd interview",16.5,1,1
+"bk","yes",1992-11-07,19,"November 1992",6,378,"answered 2nd interview",31.5,1,1
+"bk","no",1992-11-16,16.5,"November 1992",6.5,381,"answered 2nd interview",27.5,1,1
+"roys","yes",1992-11-18,16,"November 1992",7,403,"answered 2nd interview",25.5,1,1
+"wendys","yes",1992-11-13,12.5,"November 1992",10.5,406,"answered 2nd interview",32,1,1
+"wendys","yes",1992-11-13,10.5,"November 1992",11,408,"answered 2nd interview",14.5,1,1
+"bk","no",1992-11-17,15,"November 1992",7,409,"answered 2nd interview",10.5,1,1
+"bk","no",1992-11-05,16,"November 1992",7,1,"answered 2nd interview",44,1,1
+"bk","no",1992-11-05,15,"November 1992",7,2,"answered 2nd interview",15.5,1,1
+"kfc","no",1992-11-17,11,"November 1992",11,3,"answered 2nd interview",10.5,1,1
+"roys","no",1992-11-05,13.5,"November 1992",8,4,"answered 2nd interview",24,1,1
+"roys","no",1992-11-18,17,"November 1992",6,5,"answered 2nd interview",29,1,1
+"wendys","no",1992-11-05,13,"November 1992",10,8,"answered 2nd interview",30.5,1,1
+"bk","no",1992-11-05,16,"November 1992",7,9,"answered 2nd interview",20,1,1
+"bk","no",1992-11-05,16,"November 1992",7,10,"answered 2nd interview",26.5,1,1
+"bk","no",1992-11-17,16,"November 1992",7,11,"answered 2nd interview",27,1,1
+"bk","no",1992-11-18,16,"November 1992",7,12,"answered 2nd interview",26.5,1,1
+"kfc","no",1992-11-17,11,"November 1992",11,13,"answered 2nd interview",10.5,1,1
+"roys","no",1992-12-10,17,"November 1992",6,15,"answered 2nd interview",18,1,1
+"roys","no",1992-11-05,17,"November 1992",6,16,"answered 2nd interview",18.5,1,1
+"roys","no",1992-11-16,17,"November 1992",6,17,"answered 2nd interview",25.5,1,1
+"roys","no",1992-11-05,17,"November 1992",6,18,"answered 2nd interview",32,1,1
+"bk","no",1992-11-05,16,"November 1992",6,19,"answered 2nd interview",33,1,1
+"kfc","no",1992-11-14,10,"November 1992",11,21,"answered 2nd interview",7.5,1,1
+"roys","no",1992-11-05,15,"November 1992",7,22,"answered 2nd interview",12.5,1,1
+"bk","no",1992-11-17,16.5,"November 1992",6.5,23,"answered 2nd interview",24,1,1
+"bk","no",1992-12-21,NA,"November 1992",NA,24,"answered 2nd interview",29,1,1
+"kfc","no",1992-11-18,10,"November 1992",11,28,"answered 2nd interview",10,1,1
+"kfc","no",1992-11-12,11,"November 1992",11,29,"answered 2nd interview",9.5,1,1
+"roys","no",1992-11-17,11.5,"November 1992",10.5,32,"answered 2nd interview",17.5,1,1
+"roys","yes",1992-11-13,11.5,"November 1992",10.5,34,"answered 2nd interview",17.5,1,1
+"wendys","no",1992-11-19,11.5,"November 1992",10.5,35,"answered 2nd interview",25,1,1
+"bk","no",1992-11-10,17.5,"November 1992",6.5,38,"answered 2nd interview",26,1,1
+"bk","yes",1992-11-17,18,"November 1992",7,63,"answered 2nd interview",24,1,1
+"bk","no",1992-11-10,16,"November 1992",7,64,"answered 2nd interview",22.5,1,1
+"bk","no",1992-12-15,NA,"November 1992",NA,65,"closed for renovations",NA,1,1
+"bk","no",1992-11-10,17,"November 1992",7,66,"answered 2nd interview",35,1,1
+"bk","no",1992-11-10,13.5,"November 1992",8,67,"answered 2nd interview",17.75,1,1
+"bk","no",1992-11-10,17,"November 1992",7,68,"answered 2nd interview",24.5,1,1
+"bk","no",1992-11-17,18,"November 1992",7,69,"answered 2nd interview",16.5,1,1
+"bk","no",1992-11-10,16,"November 1992",7,70,"answered 2nd interview",30,1,1
+"bk","no",1992-11-16,17,"November 1992",7,71,"answered 2nd interview",39,1,1
+"kfc","no",1992-11-17,11,"November 1992",11,73,"answered 2nd interview",17,1,1
+"kfc","no",1992-11-12,11,"November 1992",11,75,"answered 2nd interview",12.5,1,1
+"roys","yes",1992-11-13,16.5,"November 1992",6.5,76,"answered 2nd interview",38.5,1,1
+"roys","yes",1992-11-13,16,"November 1992",7,79,"answered 2nd interview",20,1,1
+"wendys","no",1992-11-14,12.5,"November 1992",10.5,80,"answered 2nd interview",21,1,1
+"bk","no",1992-11-16,16,"November 1992",7,84,"answered 2nd interview",32,1,1
+"bk","no",1992-11-10,15,"November 1992",7,86,"answered 2nd interview",19,1,1
+"bk","no",1992-11-10,15,"November 1992",7,87,"answered 2nd interview",20,1,1
+"bk","no",1992-12-18,15,"November 1992",7,88,"answered 2nd interview",26.5,1,1
+"bk","yes",1992-11-17,17,"November 1992",7,91,"answered 2nd interview",19,1,1
+"bk","yes",1992-11-10,15,"November 1992",7,92,"answered 2nd interview",20,1,1
+"bk","yes",1992-11-10,16,"November 1992",7,93,"answered 2nd interview",22.5,1,1
+"kfc","no",1992-11-12,10,"November 1992",11,95,"answered 2nd interview",10,1,1
+"kfc","no",1992-11-18,10.5,"November 1992",11.5,96,"answered 2nd interview",12.5,1,1
+"kfc","no",1992-11-12,10,"November 1992",11,97,"answered 2nd interview",11,1,1
+"kfc","no",1992-11-12,10,"November 1992",11,98,"answered 2nd interview",12.5,1,1
+"roys","yes",1992-12-18,24,"November 1992",0,99,"answered 2nd interview",59,1,1
+"roys","no",1992-11-13,15,"November 1992",7,101,"answered 2nd interview",19,1,1
+"roys","no",1992-11-13,15,"November 1992",7,102,"answered 2nd interview",15.5,1,1
+"wendys","no",1992-11-14,12.5,"November 1992",10.5,104,"answered 2nd interview",19,1,1
+"bk","no",1992-11-10,16.5,"November 1992",6.5,105,"answered 2nd interview",26.5,1,1
+"bk","no",1992-11-10,16,"November 1992",7,106,"answered 2nd interview",17.5,1,1
+"bk","yes",1992-12-30,14,"November 1992",8,107,"answered 2nd interview",20.5,1,1
+"bk","no",1992-11-16,17,"November 1992",7,108,"answered 2nd interview",28,1,1
+"roys","no",1992-11-18,16,"November 1992",7,111,"answered 2nd interview",30.25,1,1
+"bk","no",1992-11-17,16.5,"November 1992",6.5,114,"answered 2nd interview",44,1,1
+"bk","no",1992-11-10,17,"November 1992",7,115,"answered 2nd interview",17.5,1,1
+"bk","no",1992-11-10,13,"November 1992",8.5,116,"answered 2nd interview",31,1,1
+"bk","no",1992-11-16,15,"November 1992",7,118,"answered 2nd interview",31,1,1
+"bk","no",1992-11-16,17.5,"November 1992",6.5,119,"answered 2nd interview",28.5,1,1
+"bk","yes",1992-11-19,16,"November 1992",7,120,"answered 2nd interview",19,1,1
+"bk","no",1992-11-10,12.5,"November 1992",9,122,"answered 2nd interview",41,1,1
+"bk","no",1992-11-10,15,"November 1992",7,124,"answered 2nd interview",28,1,1
+"kfc","no",1992-11-14,12,"November 1992",10,125,"answered 2nd interview",9.5,1,1
+"roys","yes",1992-12-21,16,"November 1992",7,130,"answered 2nd interview",25,1,1
+"roys","yes",1992-11-16,14,"November 1992",7,132,"answered 2nd interview",28,1,1
+"roys","yes",1992-11-13,15,"November 1992",7,133,"answered 2nd interview",16,1,1
+"roys","no",1992-11-13,16,"November 1992",6,134,"answered 2nd interview",22.75,1,1
+"roys","yes",1992-12-16,16,"November 1992",7,136,"refused second interview",NA,1,1
+"roys","yes",1992-11-16,15,"November 1992",7,137,"answered 2nd interview",32,1,1
+"wendys","no",1992-11-14,11.5,"November 1992",10.5,140,"answered 2nd interview",27.5,1,1
+"wendys","no",1992-11-18,12.5,"November 1992",10.5,141,"answered 2nd interview",25.5,1,1
+"wendys","no",1992-11-14,11.5,"November 1992",10,142,"answered 2nd interview",60.5,1,1
+"bk","no",1992-11-10,16,"November 1992",7,146,"answered 2nd interview",20.5,1,1
+"bk","no",1992-11-10,16,"November 1992",7,149,"answered 2nd interview",16,1,1
+"bk","no",1992-12-31,15,"November 1992",7,150,"answered 2nd interview",25,1,1
+"bk","no",1992-11-10,15,"November 1992",7,156,"answered 2nd interview",13,1,1
+"kfc","no",1992-11-11,11.5,"November 1992",11,158,"answered 2nd interview",9,1,1
+"kfc","no",1992-11-14,11.5,"November 1992",10.5,159,"answered 2nd interview",16.5,1,1
+"roys","yes",1992-11-12,15.5,"November 1992",7,162,"answered 2nd interview",21,1,1
+"wendys","no",1992-11-13,12.5,"November 1992",10.5,166,"answered 2nd interview",21.5,1,1
+"bk","no",1992-11-16,16,"November 1992",6,168,"answered 2nd interview",20,1,1
+"bk","yes",1992-11-10,16,"November 1992",7,171,"answered 2nd interview",21.25,1,1
+"bk","no",1992-11-16,13,"November 1992",9,172,"answered 2nd interview",21.5,1,1
+"bk","no",1992-11-17,18,"November 1992",6,173,"answered 2nd interview",31,1,1
+"bk","no",1992-11-10,16,"November 1992",7,174,"answered 2nd interview",33,1,1
+"bk","no",1992-11-17,16,"November 1992",7,176,"answered 2nd interview",37.75,1,1
+"kfc","yes",1991-11-11,10.5,"November 1992",11,178,"answered 2nd interview",9,1,1
+"kfc","no",1992-11-18,11,"November 1992",10.5,179,"answered 2nd interview",11,1,1
+"kfc","no",1992-11-11,12,"November 1992",11,180,"answered 2nd interview",12.75,1,1
+"kfc","no",1992-11-11,10,"November 1992",11.5,182,"answered 2nd interview",10.5,1,1
+"kfc","no",1992-11-18,10.5,"November 1992",11,183,"answered 2nd interview",22,1,1
+"kfc","no",1992-11-11,10.5,"November 1992",11,185,"answered 2nd interview",8,1,1
+"roys","no",1992-11-18,16,"November 1992",6,186,"answered 2nd interview",25,1,1
+"roys","no",1992-11-12,15,"November 1992",7,189,"answered 2nd interview",12.5,1,1
+"wendys","no",1992-11-13,12.5,"November 1992",10.5,192,"answered 2nd interview",22.5,1,1
+"wendys","no",1992-11-17,13,"November 1992",9,193,"answered 2nd interview",11.5,1,1
+"wendys","no",1992-11-18,12.5,"November 1992",10.5,195,"answered 2nd interview",23.5,1,1
+"bk","no",1992-11-17,16,"November 1992",7,198,"answered 2nd interview",30,1,1
+"kfc","no",1992-11-11,10.5,"November 1992",11,199,"answered 2nd interview",16.5,1,1
+"bk","no",1992-11-10,17.5,"November 1992",6.5,200,"answered 2nd interview",29,1,1
+"bk","no",1992-11-10,17,"November 1992",7,201,"answered 2nd interview",30,1,1
+"bk","no",1992-11-16,19,"November 1992",6,202,"answered 2nd interview",22.5,1,1
+"bk","no",1992-11-10,17,"November 1992",7,203,"answered 2nd interview",24,1,1
+"bk","no",1992-11-10,17.5,"November 1992",6.5,204,"answered 2nd interview",21.75,1,1
+"kfc","yes",1992-11-11,12,"November 1992",11,207,"answered 2nd interview",13.5,1,1
+"roys","yes",1992-11-17,14,"November 1992",8,208,"answered 2nd interview",24,1,1
+"roys","yes",1992-11-11,16,"November 1992",7,209,"answered 2nd interview",28.5,1,1
+"wendys","yes",1992-11-13,11,"November 1992",10,210,"answered 2nd interview",10,1,1
+"bk","no",1992-11-16,15,"November 1992",7,211,"answered 2nd interview",23.5,1,1
+"bk","no",1992-11-10,16,"November 1992",7,212,"answered 2nd interview",30.5,1,1
+"bk","yes",1992-12-18,17.5,"November 1992",6.5,213,"answered 2nd interview",24.75,1,1
+"bk","no",1992-11-18,16.25,"November 1992",6.75,214,"answered 2nd interview",22.5,1,1
+"bk","no",1992-11-10,16,"November 1992",7,215,"answered 2nd interview",28,1,1
+"kfc","no",1992-11-11,10.5,"November 1992",11,216,"answered 2nd interview",14,1,1
+"kfc","yes",1992-11-11,10.5,"November 1992",10.5,217,"answered 2nd interview",9,1,1
+"kfc","yes",1992-11-11,11,"November 1992",11,218,"answered 2nd interview",9.5,1,1
+"kfc","yes",1992-11-11,10.5,"November 1992",10.5,219,"answered 2nd interview",15.5,1,1
+"kfc","no",1992-11-14,10,"November 1992",11,220,"answered 2nd interview",12,1,1
+"kfc","no",1992-11-11,11,"November 1992",11,221,"answered 2nd interview",11.5,1,1
+"roys","yes",1992-11-11,11.5,"November 1992",10,222,"answered 2nd interview",12.5,1,1
+"roys","yes",1992-12-18,15,"November 1992",7,223,"answered 2nd interview",16,1,1
+"roys","yes",1992-11-11,17,"November 1992",6,225,"answered 2nd interview",28.5,1,1
+"wendys","no",1992-11-17,10.5,"November 1992",10.5,226,"answered 2nd interview",15,1,1
+"wendys","no",1992-11-13,12.5,"November 1992",10.5,228,"answered 2nd interview",23.5,1,1
+"bk","no",1992-11-16,13.5,"November 1992",8.5,229,"answered 2nd interview",30.5,1,1
+"bk","no",1992-11-16,17,"November 1992",7,230,"answered 2nd interview",26.5,1,1
+"bk","no",1992-11-18,15,"November 1992",7,232,"answered 2nd interview",27,1,1
+"bk","no",1992-11-10,16,"November 1992",7,233,"answered 2nd interview",21.5,1,1
+"bk","no",1992-12-15,15,"November 1992",8,235,"answered 2nd interview",NA,1,1
+"bk","no",1992-11-09,15.5,"November 1992",7,237,"answered 2nd interview",21.5,1,1
+"kfc","yes",1992-11-11,12,"November 1992",11,238,"answered 2nd interview",37.5,1,1
+"kfc","no",1992-11-12,12.5,"November 1992",10.5,239,"answered 2nd interview",11.5,1,1
+"roys","yes",1992-11-11,15.5,"November 1992",7,243,"answered 2nd interview",21,1,1
+"roys","yes",1992-11-11,17,"November 1992",7,244,"answered 2nd interview",28,1,1
+"wendys","no",1992-12-17,15.5,"November 1992",10.5,247,"answered 2nd interview",24,1,1
+"wendys","no",1992-11-13,16,"November 1992",10,248,"answered 2nd interview",23,1,1
+"bk","no",1992-11-09,15,"November 1992",7,249,"answered 2nd interview",19,1,1
+"kfc","yes",1992-11-12,10,"November 1992",11,250,"answered 2nd interview",7,1,1
+"roys","yes",1992-11-11,16,"November 1992",7,253,"answered 2nd interview",14,1,1
+"bk","no",1992-12-14,NA,"November 1992",NA,257,"closed for renovations",NA,1,1
+"bk","no",1992-11-09,18,"November 1992",6,258,"answered 2nd interview",32,1,1
+"bk","yes",1992-11-09,16,"November 1992",7,260,"answered 2nd interview",22,1,1
+"bk","no",1992-11-09,17.5,"November 1992",6.5,262,"answered 2nd interview",14.25,1,1
+"bk","no",1992-12-14,16,"November 1992",7,264,"answered 2nd interview",16.5,1,1
+"bk","no",1992-12-14,NA,"November 1992",NA,265,"closed permanently",0,1,1
+"bk","no",1992-11-09,16,"November 1992",7,267,"answered 2nd interview",47.5,1,1
+"kfc","yes",1992-11-18,11,"November 1992",11,269,"answered 2nd interview",15.5,1,1
+"kfc","yes",1992-11-17,10,"November 1992",11,273,"answered 2nd interview",10.5,1,1
+"kfc","yes",1992-11-14,10.5,"November 1992",11,275,"answered 2nd interview",7,1,1
+"kfc","yes",1992-11-14,10,"November 1992",11,277,"answered 2nd interview",11,1,1
+"kfc","yes",1992-11-13,11,"November 1992",11,278,"answered 2nd interview",8.5,1,1
+"roys","yes",1992-12-14,NA,"November 1992",NA,282,"closed permanently",0,1,1
+"roys","yes",1992-11-16,16,"November 1992",6,284,"answered 2nd interview",15,1,1
+"roys","yes",1992-11-12,16,"November 1992",6,285,"answered 2nd interview",13.5,1,1
+"roys","yes",1992-11-16,11.5,"November 1992",10,286,"answered 2nd interview",12.5,1,1
+"roys","yes",1992-11-12,16,"November 1992",6,287,"answered 2nd interview",12.5,1,1
+"roys","yes",1992-11-12,16,"November 1992",6,288,"answered 2nd interview",12.5,1,1
+"roys","yes",1992-11-12,15,"November 1992",7,289,"answered 2nd interview",10,1,1
+"wendys","no",1992-11-13,11.5,"November 1992",10.5,290,"answered 2nd interview",13.5,1,1
+"wendys","no",1992-11-13,11.5,"November 1992",10.5,291,"answered 2nd interview",16,1,1
+"wendys","no",1992-11-13,16,"November 1992",7,292,"answered 2nd interview",23.5,1,1
+"bk","no",1992-12-15,18,"November 1992",6,295,"answered 2nd interview",NA,1,1
+"bk","yes",1992-11-17,16,"November 1992",7,297,"answered 2nd interview",34,1,1
+"roys","yes",1992-11-16,16,"November 1992",7,303,"answered 2nd interview",32.5,1,1
+"roys","no",1992-11-12,24,"November 1992",0,304,"answered 2nd interview",21.5,1,1
+"roys","yes",1992-11-17,18,"November 1992",6,305,"answered 2nd interview",20,1,1
+"roys","yes",1992-11-18,24,"November 1992",0,307,"answered 2nd interview",43.5,1,1
+"wendys","no",1992-11-13,11.5,"November 1992",10.5,310,"answered 2nd interview",17.5,1,1
+"bk","no",1992-11-09,10,"November 1992",9,312,"answered 2nd interview",7,1,1
+"bk","no",1992-11-09,15,"November 1992",7,313,"answered 2nd interview",NA,1,1
+"bk","no",1992-11-09,16,"November 1992",6,314,"answered 2nd interview",22,1,1
+"bk","yes",1992-11-16,16,"November 1992",7,316,"answered 2nd interview",22,1,1
+"bk","no",1992-11-17,10.5,"November 1992",8,317,"answered 2nd interview",7,1,1
+"kfc","no",1992-11-12,11.5,"November 1992",10.5,318,"answered 2nd interview",14,1,1
+"kfc","no",1992-11-12,11.5,"November 1992",10.5,319,"answered 2nd interview",27,1,1
+"roys","yes",1992-11-16,15,"November 1992",7,322,"answered 2nd interview",18.5,1,1
+"roys","yes",1992-11-16,15,"November 1992",7,325,"answered 2nd interview",11.5,1,1
+"bk","no",1992-11-09,15,"November 1992",7,333,"answered 2nd interview",16,1,1
+"bk","no",1992-11-09,16,"November 1992",6,336,"answered 2nd interview",25,1,1
+"bk","yes",1992-11-09,17,"November 1992",7,337,"answered 2nd interview",30.5,1,1
+"bk","yes",1992-11-16,16,"November 1992",7,339,"answered 2nd interview",11.5,1,1
+"bk","no",1992-11-16,16,"November 1992",6,340,"answered 2nd interview",25.5,1,1
+"kfc","yes",1992-11-14,11,"November 1992",11,341,"answered 2nd interview",9.5,1,1
+"kfc","yes",1992-11-18,12,"November 1992",11,343,"answered 2nd interview",11.5,1,1
+"kfc","yes",1992-11-12,11,"November 1992",11,346,"answered 2nd interview",12,1,1
+"roys","yes",1992-12-18,NA,"November 1992",NA,348,"closed permanently",0,1,1
+"roys","yes",1992-11-18,17,"November 1992",6,350,"answered 2nd interview",17,1,1
+"roys","yes",1992-11-17,16,"November 1992",6,351,"answered 2nd interview",24,1,1
+"roys","yes",1992-12-23,NA,"November 1992",NA,352,"closed due to Mall fire",NA,1,1
+"roys","yes",1992-12-14,16,"November 1992",6,353,"answered 2nd interview",NA,1,1
+"wendys","no",1992-11-13,11.5,"November 1992",10.5,355,"answered 2nd interview",13.5,1,1
+"bk","yes",1992-11-16,16,"November 1992",7,359,"answered 2nd interview",17,1,1
+"bk","no",1992-11-16,16,"November 1992",7,360,"answered 2nd interview",28,1,1
+"bk","no",1992-11-07,16,"November 1992",7,361,"answered 2nd interview",21.5,1,1
+"kfc","no",1992-11-12,12.5,"November 1992",10.5,362,"answered 2nd interview",30,1,1
+"kfc","no",1992-11-12,12.5,"November 1992",10.5,363,"answered 2nd interview",19.5,1,1
+"kfc","no",1992-11-14,12.5,"November 1992",10.5,364,"answered 2nd interview",20,1,1
+"roys","no",1992-11-18,11.5,"November 1992",10.5,366,"answered 2nd interview",14.5,1,1
+"wendys","no",1992-11-13,11.5,"November 1992",10.5,368,"answered 2nd interview",14.5,1,1
+"bk","yes",1992-12-09,NA,"November 1992",NA,369,"closed permanently",0,1,1
+"bk","no",1992-11-07,16,"November 1992",7,370,"answered 2nd interview",31.5,1,1
+"bk","no",1992-11-17,14,"November 1992",8,376,"answered 2nd interview",11.5,1,1
+"bk","no",1992-11-07,14,"November 1992",8,377,"answered 2nd interview",20,1,1
+"bk","no",1992-11-17,16,"November 1992",7,379,"answered 2nd interview",34,1,1
+"bk","no",1992-11-07,16,"November 1992",7,380,"answered 2nd interview",25,1,1
+"bk","no",1992-11-18,16,"November 1992",7,383,"answered 2nd interview",10,1,1
+"bk","no",1992-11-07,16,"November 1992",7,384,"answered 2nd interview",18,1,1
+"bk","no",1992-12-09,17,"November 1992",7,385,"answered 2nd interview",25,1,1
+"bk","no",1992-11-16,17,"November 1992",7,386,"answered 2nd interview",23,1,1
+"kfc","no",1992-11-14,10,"November 1992",11,391,"answered 2nd interview",17.5,1,1
+"kfc","yes",1992-11-17,11,"November 1992",11,393,"answered 2nd interview",23,1,1
+"roys","yes",1992-11-11,16,"November 1992",7,396,"answered 2nd interview",26,1,1
+"roys","yes",1992-12-28,17,"November 1992",6,397,"answered 2nd interview",16.5,1,1
+"roys","yes",1992-12-10,17,"November 1992",6,398,"answered 2nd interview",35.5,1,1
+"roys","yes",1992-11-11,16,"November 1992",7,399,"answered 2nd interview",31,1,1
+"roys","yes",1992-11-11,16,"November 1992",7,400,"answered 2nd interview",23,1,1
+"roys","no",1992-11-17,16,"November 1992",6,401,"answered 2nd interview",22.5,1,1
+"roys","yes",1992-11-16,15,"November 1992",7,402,"answered 2nd interview",21.5,1,1
+"roys","yes",1992-11-16,16,"November 1992",7,405,"answered 2nd interview",12,1,1
+"bk","no",1992-11-16,16,"November 1992",7,410,"answered 2nd interview",20.5,1,1
+"bk","no",1992-11-16,16,"November 1992",7,411,"answered 2nd interview",25,1,1
+"kfc","no",1992-11-12,11,"November 1992",11,412,"answered 2nd interview",8.5,1,1
+"bk","no",1992-11-07,17,"November 1992",7,413,"answered 2nd interview",13,1,1
+"bk","no",1992-11-16,16,"November 1992",7,414,"answered 2nd interview",21.5,1,1
+"bk","no",1992-11-07,16,"November 1992",7,415,"answered 2nd interview",23,1,1
+"bk","yes",1992-11-09,16,"November 1992",7,417,"answered 2nd interview",25.5,1,1
+"bk","no",1992-11-09,16,"November 1992",7,418,"answered 2nd interview",21.5,1,1
+"kfc","yes",1992-12-15,11,"November 1992",11,419,"answered 2nd interview",9.5,1,1
+"kfc","yes",1992-11-17,13,"November 1992",10.5,421,"answered 2nd interview",36.5,1,1
+"kfc","no",1992-11-14,11,"November 1992",11,422,"answered 2nd interview",16,1,1
+"kfc","yes",1992-11-14,11,"November 1992",11,423,"answered 2nd interview",23.75,1,1
+"kfc","yes",1992-11-17,14,"November 1992",11,424,"answered 2nd interview",17.5,1,1
+"roys","yes",1992-11-11,18,"November 1992",6,426,"answered 2nd interview",20.5,1,1
+"wendys","no",1992-12-17,12.5,"November 1992",10.5,427,"answered 2nd interview",20.5,1,1
+"wendys","no",1992-11-13,12.5,"November 1992",10.5,428,"answered 2nd interview",25,1,1
