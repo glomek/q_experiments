@@ -7,5 +7,5 @@ partner - (0: brak; 1: jest)
 zamieszkanie - (0: duze miasta; 1: gminy miejskie; 2: wiejskie)
 praca - (0: jobcy; 1: pierwszy jezyk)
 alkohol (0: niskie; 1: wysokie)
-p.stresu - liczba bledow w tescie 10 to 50
+p.stresu - skala 0-50
 wiek - wiek uczestników
